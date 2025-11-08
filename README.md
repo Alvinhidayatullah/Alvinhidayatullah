@@ -23,12 +23,12 @@ I'm **[`Alvin Hidayatulloh`](https://www.instagram.com/alvinnhidayatullah/)**, a
 <details>
   <summary>More about me</summary>
 
-- **Name**: Alvin Hidayatullah
-- **From**: Sukabumi (Jawa Barat)
+- Name: **Alvin Hidayatullah**
+- From: **Sukabumi (Jawa Barat)**
 - **Bug Hunter** | **Security Researcher** | **Bug Hunter**
-- i have experience in **Cracking**,**Social Engineering**,**Penetration Testing**
+- i have experience in **Social Engineering**,**Penetration Testing**
 - Improving knowledge in **Webapp Vulnerabilities**
-- Lifelong learner — always exploring **everything**
+- Lifelong learner — **always exploring everything**
 - Reach me out at **vvvinz-attacker@proton.me**
 
 </details>
@@ -84,9 +84,9 @@ I'm **[`Alvin Hidayatulloh`](https://www.instagram.com/alvinnhidayatullah/)**, a
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
 <img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
  
-  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=coffinxp&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/coffinxp/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=coffinxp&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
- <p align="left"><a href="https://github.com/coffinxp/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coffinxp&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
+  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alvinhidayatullah&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/Alvinhidayatullah/github-readme-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Alvinhidayatullah&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
+ <p align="left"><a href="https://github.com/Alvinhidayatullah/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvinhidayatullah&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
 
 <br><br>
 
