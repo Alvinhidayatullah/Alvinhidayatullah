@@ -81,20 +81,24 @@ I'm **[`Alvin Hidayatulloh`](https://www.instagram.com/alvinnhidayatullah/)**, a
 ---
 
 
-<h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
+<h2 id="github_stats" align="">GitHub Stats 👨‍💻</h2>
 <img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
- 
-  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alvinhidayatullah&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/Alvinhidayatullah/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Alvinhidayatullah&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
- <p align="left"><a href="https://github.com/Alvinhidayatullah/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvinhidayatullah&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
 
-<br><br>
+[![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alvinhidayatullah&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/Alvinhidayatullah/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Alvinhidayatullah&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats)
+<p align="left">
+  <a href="https://github.com/Alvinhidayatullah/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvinhidayatullah&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"/>
+  </a>
+</p>
 
+<br><br><br><br><br>
 
 <div align="center">
   <p><strong><em>"Never give up. Never back down."</em></strong></p>
   <p>I Love My Self ❤️</p>
 </div>
+
 
 <p align="center">
   <img src="https://github.com/caerlower/caerlower/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
