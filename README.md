@@ -57,9 +57,6 @@ I'm **[Alvin Hidayatullah](https://www.instagram.com/alvinnhidayatullah/)**, a h
 👉 **Tool Development** - Writing useful tools for myself & communities  
 👉 **Open Source** - Building & contributing to open source projects  
 👉 **Cybersecurity** - Journey to becoming a Cybersecurity Specialist  
-
-*Last Updated: December 2024*
-
 ---
 
 <h2 id="knowledge_skills">🛠️ Knowledge & Skills</h2>
