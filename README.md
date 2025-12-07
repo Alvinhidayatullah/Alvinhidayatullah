@@ -59,7 +59,7 @@ I'm **[Alvin Hidayatullah](https://www.instagram.com/alvinnhidayatullah/)**, a h
 👉 **Cybersecurity** - Journey to becoming a Cybersecurity Specialist  
 ---
 
-<h2 id="knowledge_skills">🛠️ Knowledge & Skills</h2>
+<h2 id="knowledge_skills">🛠️ Knowledge & Skill</h2>
 
 <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
@@ -90,7 +90,7 @@ I'm **[Alvin Hidayatullah](https://www.instagram.com/alvinnhidayatullah/)**, a h
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   
-  ### 📝 Editors
+  ### 📝 Canvas Editors
   <img src="https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white" />
   
   </div>
