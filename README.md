@@ -53,10 +53,10 @@ I'm **[Alvin Hidayatullah](https://www.instagram.com/alvinnhidayatullah/)**, a h
 <img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
 
 ### 🎯 Current Focus
-👉 **Bug Hunting** - Continuous learning and practice  
-👉 **Tool Development** - Writing useful tools for myself & communities  
-👉 **Open Source** - Building & contributing to open source projects  
-👉 **Cybersecurity** - Journey to becoming a Cybersecurity Specialist  
+- **Bug Hunting** – Learning and practice  
+- **Tool Development** – Community utilities  
+- **Open Source** – Project contributions  
+- **Cybersecurity** – Specialist path 
 ---
 
 <h2 id="knowledge_skills">🛠️ Knowledge & Skill</h2>
