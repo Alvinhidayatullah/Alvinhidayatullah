@@ -121,11 +121,6 @@ I'm **[Alvin Hidayatullah](https://www.instagram.com/alvinnhidayatullah/)**, a h
   </tr>
 </table>
 
-### 💻 Most Used Languages
-<a href="https://github.com/Alvinhidayatullah">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvinhidayatullah&layout=compact&theme=dark&hide_border=true&bg_color=00000000&langs_count=8" alt="Top Languages" height="165"/>
-</a>
-
 </div>
 
 <br>
