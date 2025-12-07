@@ -65,7 +65,7 @@ I'm **[Alvin Hidayatullah](https://www.instagram.com/alvinnhidayatullah/)**, a h
 <h2 id="knowledge_skills">🛠️ Knowledge & Skills</h2>
 
 <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
-  <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     
   ### 🔐 Security Tools
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
