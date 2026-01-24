@@ -142,7 +142,7 @@ I'm **[Alvin Hidayatullah](https://www.instagram.com/alvinnhidayatullah/)**, a h
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
 <a href="mailto:vvvinz-attacker@proton.me">
-  <img src="https://skillicons.dev/icons?i=proton" />
+  <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 </div>
