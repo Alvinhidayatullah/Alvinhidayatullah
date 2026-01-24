@@ -135,11 +135,14 @@ I'm **[Alvin Hidayatullah](https://www.instagram.com/alvinnhidayatullah/)**, a h
 
 <div align="center">
   
-### 🔗 Connect with Me
-<a href="https://www.instagram.com/alvinnhidayatullah/">
+### 🔗 Connect with Me<a href="https://www.instagram.com/alvinnhidayatullah/">
   <img src="https://skillicons.dev/icons?i=instagram" />
-</a><br>
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alvinhidayatullah)
-[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:vvvinz-attacker@proton.me)
+</a>
+<a href="https://github.com/Alvinhidayatullah">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+<a href="mailto:vvvinz-attacker@proton.me">
+  <img src="https://skillicons.dev/icons?i=proton" />
+</a>
 
 </div>
