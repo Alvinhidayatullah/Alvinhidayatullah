@@ -135,7 +135,8 @@ I'm **[Alvin Hidayatullah](https://www.instagram.com/alvinnhidayatullah/)**, a h
 
 <div align="center">
   
-### 🔗 Connect with Me<a href="https://www.instagram.com/alvinnhidayatullah/">
+### 🔗 Connect with Me
+<a href="https://www.instagram.com/alvinnhidayatullah/">
   <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 <a href="https://github.com/Alvinhidayatullah">
