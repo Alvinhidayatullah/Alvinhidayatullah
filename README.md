@@ -123,7 +123,7 @@ I'm **[Alvin Hidayatullah](https://www.instagram.com/alvinnhidayatullah/)**, a h
 <br>
 
 <div align="center">
-  <p><strong><em>"Never give up. Never back down."</em></strong></p>
+  <a href="https://github.com/JoshuaThadi/Void-OSE/blob/main/Desk%26Mob/fogoAzul.gif"><p><strong><em>"Never give up. Never back down."</em></strong></p></a>
   <p>I Love My Self ❤️</p>
 </div>
 
