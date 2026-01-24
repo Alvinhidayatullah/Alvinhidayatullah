@@ -136,7 +136,9 @@ I'm **[Alvin Hidayatullah](https://www.instagram.com/alvinnhidayatullah/)**, a h
 <div align="center">
   
 ### 🔗 Connect with Me
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alvinnhidayatullah/)
+<a href="https://www.instagram.com/alvinnhidayatullah/">
+  <img src="https://skillicons.dev/icons?i=instagram" />
+</a><br>
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alvinhidayatullah)
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:vvvinz-attacker@proton.me)
 
